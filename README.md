@@ -11,4 +11,4 @@ For building a Laser Directional Speaker, also known as a Parametric Speaker.
 
 ![alt text](images/parametric_speaker.png "Parametric Speaker")
 
-Related Video https://www.youtube.com/watch?v=gT1YNynRKyQ
+Related Video https://youtu.be/9hD5FPVSsV0
